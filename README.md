@@ -1,7 +1,4 @@
-# Server Side Rendering Demo built with Node.js & React
-
-<img src="https://github.com/Shaban-Eissa/SSR-Behind-Scenes/assets/49924090/2de1f088-8ed6-4ac9-b22c-0357c14d9130" width="500" height="150" />
-
+# React SSR web-server from scratch
 
 Building the main content for every web-page using what is rendered on server.
 
