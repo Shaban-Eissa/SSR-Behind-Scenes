@@ -36,6 +36,12 @@ Building the main content for every web-page using what is rendered on server.
     npm install
     ```
 
+3. **Build server side if you want to apply changes happened on server:**
+    
+    ```bash
+    npm run build
+    ```    
+
 3. **Run the application:**
     
     ```bash
